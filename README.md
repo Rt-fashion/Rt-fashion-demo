@@ -1,3 +1,3 @@
 # Rt-fashion-demo
-This is my first website
+This is my first Repository.
 Author-Md Towhiduzzaman
